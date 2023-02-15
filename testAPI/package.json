@@ -6,11 +6,8 @@
   "scripts": {
     "build": "echo \"No build specified\" && exit 1",
     "test": "echo \"Error: no test specified\" && exit 1",
-<<<<<<< HEAD
+
     "start": "node index.js"
-=======
-    "start": "node index.js",
->>>>>>> fc9606f334f891606c4942c1835dde0e5b68b5eb
     
   },
   "repository": {
